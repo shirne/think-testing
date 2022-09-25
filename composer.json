@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-testing",
+    "name": "shirne/think-testing",
     "license": "Apache-2.0",
     "type": "think-testing",
     "authors": [
@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-        "topthink/think-installer": "~2.0",
-	"topthink/framework": "5.1.*",
+        "shirne/think-installer": "~2.0",
+	"shirne/thinkphp": "5.1.*",
         "topthink/think-helper": "~1.0",
         "phpunit/phpunit": "^6.0",
         "symfony/dom-crawler": "^2.8.8"
