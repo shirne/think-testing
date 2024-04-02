@@ -12,7 +12,7 @@
         "shirne/think-installer": "~2.0",
 	"shirne/thinkphp": "5.1.*",
         "topthink/think-helper": "~1.0",
-        "phpunit/phpunit": "^6.0",
+        "phpunit/phpunit": "^10.0.0",
         "symfony/dom-crawler": "^2.8.8"
     },
     "autoload": {
